@@ -1,0 +1,38 @@
+name: Bootstrap site archive
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'bootstrap/**'
+      - '.github/workflows/bootstrap-unpack.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  unpack:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Reconstruct and unpack archive
+        run: |
+          set -euo pipefail
+          cat bootstrap/site.tar.zst.b64.part* > /tmp/site.tar.zst.b64
+          base64 -d /tmp/site.tar.zst.b64 > /tmp/site.tar.zst
+          mkdir -p /tmp/site
+          zstd -d -c /tmp/site.tar.zst | tar -xf - -C /tmp/site
+      - name: Replace bootstrap tree with site files
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git rm -r --ignore-unmatch .
+          cp -a /tmp/site/. .
+          git add -A
+          git status --short
+          git commit -m "Publish NC integers supplementary archive"
+          git push
