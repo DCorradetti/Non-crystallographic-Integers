@@ -1,0 +1,11 @@
+{
+  "all_certificates": [
+    "field_certificate.json",
+    "icosian_H4_shell_certificate.json",
+    "icosian_double_order_certificate.json",
+    "icosian_double_root_shell_certificate.json",
+    "icosian_order_certificate.json",
+    "octonion_multiplication_certificate.json"
+  ],
+  "all_core_checks_passed": true
+}

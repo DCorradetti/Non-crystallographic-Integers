@@ -1,0 +1,55 @@
+{
+  "ambient_quotient": "(1/2 G0)/G0 ~= (Z[phi]/2)^8 ~= F4^8",
+  "complete_for_single_line_denominator_2": true,
+  "filter_pass_counts": {
+    "lines_tested": 21845,
+    "mixed_lines_tested": 21675,
+    "pass_conjugation_closed": 5461,
+    "pass_mixed_coset": 21675,
+    "pass_norm_integral": 1454,
+    "pass_square_closed": 376
+  },
+  "first_fail_examples_f4_lines": {
+    "conjugation_closed": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "mixed_coset": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "pairings_integral": [
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  "line_count_expected": 21845,
+  "line_count_tested": 21845,
+  "mixed_line_count_tested": 21675,
+  "rejection_reasons_first_failed_filter": {
+    "conjugation_closed": 16320,
+    "mixed_coset": 170,
+    "pairings_integral": 5355
+  },
+  "search": "denominator_two_single_line_gluing",
+  "survivor_count": 0,
+  "survivors_f4_lines": []
+}

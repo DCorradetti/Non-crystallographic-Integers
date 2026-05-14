@@ -1,0 +1,11 @@
+{
+  "certificate": "octonion_stable_subspaces",
+  "generated_subspace_dimension_distribution": {
+    "8": 19656
+  },
+  "isotropic_projective_line_count": 19656,
+  "method": "For each isotropic projective line, generate the smallest F5-subspace stable under conjugation and left/right multiplication by the G0 basis. Any nonzero stable isotropic subspace would contain a line whose generated stable closure is still totally isotropic.",
+  "octonion_stable_subspace_count": 0,
+  "proof_of_zero": "The generated stable closure of every isotropic line has dimension 8. Since the full discriminant group is not totally isotropic, no nonzero octonion-stable isotropic subspace can exist.",
+  "surviving_indecomposable_candidates": []
+}

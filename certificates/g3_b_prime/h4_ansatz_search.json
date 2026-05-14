@@ -1,0 +1,81 @@
+{
+  "cartan_coefficients_in_zphi": null,
+  "conjugation_closed_after_closure": null,
+  "convention": {
+    "candidate": "v = (a+b*l)/2 with a,b in H4",
+    "module_trace_integrality_check": "Tr_{K/Q}(N(x)) in Z and Tr_{K/Q}(B(x,y)) in Z for the full Z-basis of G0 + Z[phi]*v",
+    "roadmap_polar_pairing_filter": "Tr_{K/Q}(B(v,e_i)) in Z for B=2*<,>",
+    "self_trace_norm": "Tr_{K/Q}(N(v)) in Z"
+  },
+  "decision": "The H4 mixed half-root ansatz has no Z[phi]-module survivor under the stated trace-integral convention. Each raw half-root has Tr(N(v))=1, but adjoining the full Z[phi]-line also adjoins phi*v, whose trace norm is 3/2 in the first failure example.",
+  "first_examples": {
+    "module_trace_integrality_failure": {
+      "failure": {
+        "element": "phi*v",
+        "kind": "trace_norm_failure",
+        "norm_value": "1/2+1/2*phi",
+        "trace_norm": "3/2"
+      },
+      "line": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "norm_phi_v": "1/2+1/2*phi",
+      "norm_v": "1/2",
+      "trace_norm_phi_v": "3/2",
+      "trace_norm_v": "1"
+    },
+    "mutual_pairing_failure": {
+      "line": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "other_line": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "polar_pairing": "3/4",
+      "trace": "3/2"
+    }
+  },
+  "integral_mutual_pair_count": 1199,
+  "is_indecomposable": false,
+  "mixed_root_count": 0,
+  "module_trace_integral_after_closure": false,
+  "multiplicative_closure_depth": null,
+  "multiplicative_closure_status": "not_run_no_trace_integral_Zphi_module_survivors",
+  "passing_module_trace_integral_projective_count": 0,
+  "passing_module_trace_integral_raw_count": 0,
+  "passing_mutual_pairings_count": 0,
+  "passing_pairings_g0_count": 324,
+  "passing_pairings_g0_projective_count": 81,
+  "passing_self_norm_count": 14400,
+  "passing_self_norm_projective_count": 3600,
+  "projective_coset_count": 3600,
+  "projective_gram_graph_components": [],
+  "raw_pair_count": 14400,
+  "raw_pairs_per_projective_coset_distribution": {
+    "4": 3600
+  },
+  "search": "G3-B-prime H4 mixed half-root ansatz",
+  "shell_size_trace_norm_one": 0,
+  "total_mutual_pair_count": 3321
+}

@@ -1,0 +1,10 @@
+{
+  "field": "Q(sqrt(5))",
+  "galois_conjugation": "phi -> 1 - phi",
+  "norm_formula": "N(a+b phi)=a^2+a*b-b^2",
+  "relation": "phi^2 = phi + 1",
+  "ring": "Z[phi]",
+  "sample_checks_passed": true,
+  "trace_formula": "Tr(a+b phi)=2a+b",
+  "unit_group": "+/- phi^k"
+}

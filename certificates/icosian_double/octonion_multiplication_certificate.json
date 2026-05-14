@@ -1,0 +1,21 @@
+{
+  "basis": [
+    "1",
+    "i",
+    "j",
+    "k",
+    "l",
+    "il",
+    "jl",
+    "kl"
+  ],
+  "construction": "Cayley-Dickson double of Hamilton quaternions",
+  "product": "(a+b*l)(c+d*l)=(ac-conj(d)b)+(da+b*conj(c))*l",
+  "verified_identities_on_basis": {
+    "conjugation_anti_automorphism": true,
+    "identity": true,
+    "imaginary_basis_squares_minus_one": true,
+    "moufang_identity": true,
+    "norm_multiplicative": true
+  }
+}

@@ -1,0 +1,390 @@
+{
+  "basis_labels": [
+    "1",
+    "i",
+    "h",
+    "g",
+    "l",
+    "il",
+    "hl",
+    "gl"
+  ],
+  "certificate": "dual_discriminant_certificate",
+  "checks": {
+    "G0_is_unimodular_for_norm_polar_pairing": true,
+    "determinant_verified": true,
+    "inner_product_matrix_symmetric": true,
+    "inverse_left_verified": true,
+    "inverse_right_verified": true,
+    "norm_polar_determinant_is_unit": true,
+    "norm_polar_inverse_entries_integral": true,
+    "norm_polar_matrix_entries_integral": true,
+    "norm_polar_matrix_symmetric": true
+  },
+  "coefficient_ring": "R = Z[phi], phi^2 = phi + 1",
+  "conclusion": "The norm-polar dual G0# equals G0. Therefore a strict overorder of G0 with integral norms cannot be obtained by adjoining any fractional ideal layer inside K tensor_R G0.",
+  "dual_basis_coordinates_in_G0_basis": [
+    [
+      "4-2*phi",
+      "5-3*phi",
+      "-2+phi",
+      "5-3*phi",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "5-3*phi",
+      "8-4*phi",
+      "-3+phi",
+      "7-5*phi",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "-2+phi",
+      "-3+phi",
+      "2",
+      "-2+2*phi",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "5-3*phi",
+      "7-5*phi",
+      "-2+2*phi",
+      "8-4*phi",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "0",
+      "0",
+      "0",
+      "0",
+      "4-2*phi",
+      "5-3*phi",
+      "-2+phi",
+      "5-3*phi"
+    ],
+    [
+      "0",
+      "0",
+      "0",
+      "0",
+      "5-3*phi",
+      "8-4*phi",
+      "-3+phi",
+      "7-5*phi"
+    ],
+    [
+      "0",
+      "0",
+      "0",
+      "0",
+      "-2+phi",
+      "-3+phi",
+      "2",
+      "-2+2*phi"
+    ],
+    [
+      "0",
+      "0",
+      "0",
+      "0",
+      "5-3*phi",
+      "7-5*phi",
+      "-2+2*phi",
+      "8-4*phi"
+    ]
+  ],
+  "ideal_factorization": {
+    "candidate_prime_ideals": [],
+    "norm_polar_determinant": "unit ideal",
+    "reason": "The norm-polar determinant is a unit of Z[phi]."
+  },
+  "inner_product_determinant": {
+    "coefficients_in_1_phi": [
+      "1/128",
+      "3/256"
+    ],
+    "field_norm_to_Q": "1/65536",
+    "is_integral": false,
+    "is_unit": false,
+    "text": "1/128+3/256*phi"
+  },
+  "inner_product_matrix": [
+    [
+      "1",
+      "0",
+      "1/2",
+      "-1/2",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "0",
+      "1",
+      "1/2",
+      "-1/2+1/2*phi",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "1/2",
+      "1/2",
+      "1",
+      "-1/2",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "-1/2",
+      "-1/2+1/2*phi",
+      "-1/2",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "0",
+      "0",
+      "0",
+      "0",
+      "1",
+      "0",
+      "1/2",
+      "-1/2"
+    ],
+    [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "1",
+      "1/2",
+      "-1/2+1/2*phi"
+    ],
+    [
+      "0",
+      "0",
+      "0",
+      "0",
+      "1/2",
+      "1/2",
+      "1",
+      "-1/2"
+    ],
+    [
+      "0",
+      "0",
+      "0",
+      "0",
+      "-1/2",
+      "-1/2+1/2*phi",
+      "-1/2",
+      "1"
+    ]
+  ],
+  "norm_polar_determinant": {
+    "coefficients_in_1_phi": [
+      "2",
+      "3"
+    ],
+    "field_norm_to_Q": "1",
+    "is_integral": true,
+    "is_unit": true,
+    "text": "2+3*phi"
+  },
+  "norm_polar_inverse_matrix": [
+    [
+      "4-2*phi",
+      "5-3*phi",
+      "-2+phi",
+      "5-3*phi",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "5-3*phi",
+      "8-4*phi",
+      "-3+phi",
+      "7-5*phi",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "-2+phi",
+      "-3+phi",
+      "2",
+      "-2+2*phi",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "5-3*phi",
+      "7-5*phi",
+      "-2+2*phi",
+      "8-4*phi",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "0",
+      "0",
+      "0",
+      "0",
+      "4-2*phi",
+      "5-3*phi",
+      "-2+phi",
+      "5-3*phi"
+    ],
+    [
+      "0",
+      "0",
+      "0",
+      "0",
+      "5-3*phi",
+      "8-4*phi",
+      "-3+phi",
+      "7-5*phi"
+    ],
+    [
+      "0",
+      "0",
+      "0",
+      "0",
+      "-2+phi",
+      "-3+phi",
+      "2",
+      "-2+2*phi"
+    ],
+    [
+      "0",
+      "0",
+      "0",
+      "0",
+      "5-3*phi",
+      "7-5*phi",
+      "-2+2*phi",
+      "8-4*phi"
+    ]
+  ],
+  "norm_polar_pairing_matrix": [
+    [
+      "2",
+      "0",
+      "1",
+      "-1",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "0",
+      "2",
+      "1",
+      "-1+phi",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "1",
+      "1",
+      "2",
+      "-1",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "-1",
+      "-1+phi",
+      "-1",
+      "2",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "0",
+      "0",
+      "0",
+      "0",
+      "2",
+      "0",
+      "1",
+      "-1"
+    ],
+    [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "2",
+      "1",
+      "-1+phi"
+    ],
+    [
+      "0",
+      "0",
+      "0",
+      "0",
+      "1",
+      "1",
+      "2",
+      "-1"
+    ],
+    [
+      "0",
+      "0",
+      "0",
+      "0",
+      "-1",
+      "-1+phi",
+      "-1",
+      "2"
+    ]
+  ],
+  "order": "G0 = I + I*l",
+  "pairing_convention": {
+    "dual_used_for_strict_norm_integral_overorders": "B",
+    "inner_product": "<x,y> = Re(x*conj(y))",
+    "norm_polar_bilinear": "B(x,y) = N(x+y)-N(x)-N(y) = 2*<x,y>"
+  },
+  "quotient_invariants": {
+    "G0_dual_over_G0": "trivial",
+    "cardinality": 1,
+    "local_components": []
+  }
+}

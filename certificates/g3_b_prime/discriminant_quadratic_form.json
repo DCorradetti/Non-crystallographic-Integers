@@ -1,0 +1,26 @@
+{
+  "action_maps_preserve_discriminant_kernel": true,
+  "bilinear_form": "b(t/5,u/5)=t^T G_Z u / 25 mod Z",
+  "certificate": "discriminant_quadratic_form",
+  "discriminant_group_order": 390625,
+  "discriminant_group_structure": "(Z/5)^8",
+  "group": "G0_Z_dual/G0 as trace-polar Z-lattice",
+  "isotropic_projective_line_count": 19656,
+  "kernel_basis_mod5_parametrization": "param c in F5^8 maps to Z-vector (2c_0,...,2c_3,c_0,...,c_3,2c_4,...,2c_7,c_4,...,c_7)",
+  "maximal_isotropic_dimension": 4,
+  "phi_action": {
+    "phi_acts_as_scalar_3_on_discriminant_group": true,
+    "sqrt5_annihilates_discriminant_group": true
+  },
+  "projective_line_count": 97656,
+  "q_value_distribution_mod_50": {
+    "0": 19656,
+    "10": 19552,
+    "20": 19396,
+    "30": 19604,
+    "40": 19448
+  },
+  "quadratic_form": "q(t/5)=t^T G_Z t / 50 mod Z",
+  "quadratic_form_witt_type": "split plus type O^+(8,5), hyperbolic rank 4",
+  "source": "e8e8_unimodularity_certificate.json"
+}

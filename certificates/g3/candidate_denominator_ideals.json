@@ -1,0 +1,33 @@
+{
+  "candidate_count": 0,
+  "candidate_denominator_ideals": [],
+  "certificate": "candidate_denominator_ideals",
+  "checks": {
+    "candidate_list_complete_from_discriminant": true,
+    "source_dual_quotient_trivial": true,
+    "source_unimodular": true
+  },
+  "conclusion": "No denominator ideal is relevant for strict overorders of G0: the norm-polar dual quotient G0#/G0 is trivial.",
+  "dual_quotient": {
+    "G0_dual_over_G0": "trivial",
+    "cardinality": 1,
+    "local_components": []
+  },
+  "next_steps": [
+    "The sqrt5 and 3 line scans are not required for strict overorders of this baseline G0.",
+    "The remaining G3 search branches are different ambient orders, twisted Cayley-Dickson doubles, or different shell conventions."
+  ],
+  "norm_polar_determinant": {
+    "coefficients_in_1_phi": [
+      "2",
+      "3"
+    ],
+    "field_norm_to_Q": "1",
+    "is_integral": true,
+    "is_unit": true,
+    "text": "2+3*phi"
+  },
+  "order": "G0 = I + I*l",
+  "pairing_used": "B",
+  "source": "dual_discriminant_certificate.json"
+}

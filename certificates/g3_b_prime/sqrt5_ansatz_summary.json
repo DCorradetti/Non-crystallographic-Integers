@@ -1,0 +1,11 @@
+{
+  "coset_count_total": 390624,
+  "decision": "Every isotropic line generates the full 8-dimensional discriminant group under conjugation and left/right multiplication by the G0 basis. The full discriminant group is not totally isotropic, so no nonzero octonion-stable isotropic subspace exists in this ansatz.",
+  "discriminant_group_order": 390625,
+  "indecomposable_candidate_count": 0,
+  "isotropic_projective_line_count": 19656,
+  "octonion_stable_subspace_count": 0,
+  "passing_phi_stability_count": 97656,
+  "projective_line_count": 97656,
+  "quadratic_form_witt_type": "split plus type O^+(8,5), hyperbolic rank 4"
+}

@@ -1,0 +1,11 @@
+{
+  "G0_dual_over_G0": "trivial",
+  "candidate_denominator_ideal_count": 0,
+  "candidate_denominator_ideals": [],
+  "conclusion": "No denominator ideal is relevant for strict overorders of G0: the norm-polar dual quotient G0#/G0 is trivial.",
+  "norm_polar_determinant": "2+3*phi",
+  "norm_polar_determinant_norm": "1",
+  "order": "G0 = I + I*l",
+  "search": "G3 ideal-denominator overorders of G0",
+  "strict_overorders_of_G0_excluded": true
+}

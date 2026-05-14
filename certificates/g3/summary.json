@@ -1,0 +1,12 @@
+{
+  "baseline_components": [
+    60,
+    60
+  ],
+  "baseline_shell": "H4 + H4",
+  "denominator2_all_nonzero_subspaces_excluded": true,
+  "denominator2_complete": true,
+  "denominator2_projective_lines_with_integral_pairings": 0,
+  "denominator2_single_line_survivors": 0,
+  "mixed_half_root_passing_lines": 0
+}

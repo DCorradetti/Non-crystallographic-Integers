@@ -1,0 +1,33 @@
+title: "Non-crystallographic integers — Certificates"
+description: >-
+  Exact-arithmetic certificates and verification scripts for
+  "Non-crystallographic systems of integers over composition algebras"
+  by D. Corradetti (2026).
+author: Daniele Corradetti
+theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  - docs
+exclude:
+  - verify.py
+  - scripts/__pycache__
+  - .github
+  - Gemfile
+  - Gemfile.lock
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+markdown: kramdown
+kramdown:
+  syntax_highlighter: rouge
+permalink: pretty

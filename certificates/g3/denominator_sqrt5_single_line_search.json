@@ -1,0 +1,37 @@
+{
+  "ambient_quotient": "G0/sqrt5*G0 ~= F5^8",
+  "complete_for_single_line_denominator_sqrt5": true,
+  "consistent_with_strict_dual_theorem": true,
+  "filter_note": "The necessary polar-pairing filter is already decisive. Since no nonzero projective F5 line pairs integrally after division by sqrt5, later multiplication and square-closure filters are not reached.",
+  "first_pairing_fail_example": {
+    "line": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "pairing_residues_mod_sqrt5": [
+      0,
+      0,
+      0,
+      0,
+      4,
+      2,
+      4,
+      2
+    ]
+  },
+  "first_pairing_pass_example": null,
+  "ideal": "(sqrt5) = (2*phi-1)",
+  "line_count_expected": 97656,
+  "line_count_tested": 97656,
+  "mixed_line_count_tested": 97344,
+  "projective_lines_with_polar_pairings_integral": 0,
+  "residue_field": "Z[phi]/(sqrt5) ~= F5, phi -> 3",
+  "search": "denominator_sqrt5_single_line_search",
+  "survivor_count": 0
+}

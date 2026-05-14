@@ -1,0 +1,14 @@
+{
+  "all_nonzero_denominator_sqrt5_subspaces_excluded": true,
+  "ambient_quotient": "G0/sqrt5*G0 ~= F5^8",
+  "projective_line_count_tested": 97656,
+  "projective_lines_with_polar_pairings_integral": 0,
+  "proof": [
+    "Every nonzero F5-subspace contains a projective F5-line.",
+    "The complete projective-line scan found zero lines satisfying the necessary polar-pairing condition.",
+    "Therefore no nonzero sqrt5-denominator subspace can define a strict norm-integral overmodule of G0."
+  ],
+  "search": "denominator_sqrt5_all_f5_subspaces_pairing_obstruction",
+  "source_certificate": "denominator_sqrt5_single_line_search.json",
+  "subspaces_considered": "all nonzero F5-linear subspaces C <= F5^8"
+}

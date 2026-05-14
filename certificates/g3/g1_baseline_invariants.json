@@ -1,0 +1,26 @@
+{
+  "decomposable_by_orthogonal_blocks": true,
+  "gram_graph_component_sizes_projective": [
+    60,
+    60
+  ],
+  "inner_product_distribution_upper_triangle": {
+    "-1": 120,
+    "-1/2": 2400,
+    "-1/2*phi": 1440,
+    "-1/2+1/2*phi": 1440,
+    "0": 18000,
+    "1": 240,
+    "1/2": 2400,
+    "1/2*phi": 1440,
+    "1/2-1/2*phi": 1440
+  },
+  "mixed_roots": 0,
+  "order": "G0 = I + I*l",
+  "projective_shell_cardinality": 120,
+  "pure_first_half_roots": 120,
+  "pure_second_half_roots": 120,
+  "shell": "H4 + H4",
+  "shell_cardinality": 240,
+  "shell_hash": "sha256:8dc289297e233db8a8c039f6ebad7a085ab841ac886a766350539e9a735030ef"
+}

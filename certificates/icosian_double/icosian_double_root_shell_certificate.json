@@ -1,0 +1,21 @@
+{
+  "all_norm_one": true,
+  "cardinality": 240,
+  "cartan_coefficients_in_Zphi": true,
+  "closed_under_multiplication": true,
+  "closed_under_negation": true,
+  "closed_under_reflections": true,
+  "coxeter_type": "H4 + H4",
+  "crystallographic_over_Z": false,
+  "crystallographic_over_Zphi": true,
+  "genuinely_octonionic": true,
+  "nonzero_associator_example": {
+    "associator": "(2)kl",
+    "x": "i",
+    "y": "j",
+    "z": "l"
+  },
+  "rank_over_K": 8,
+  "shell_hash": "sha256:8dc289297e233db8a8c039f6ebad7a085ab841ac886a766350539e9a735030ef",
+  "shell_name": "IcosianDouble_H4_plus_H4"
+}

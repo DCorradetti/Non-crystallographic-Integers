@@ -1,0 +1,114 @@
+{
+  "basis_action_generated_subspace_dimension_distribution": {
+    "8": 19656
+  },
+  "cartan_in_zphi": null,
+  "certificate": "sqrt5_ansatz_search",
+  "coset_count_total": 390624,
+  "decision": "Every isotropic line generates the full 8-dimensional discriminant group under conjugation and left/right multiplication by the G0 basis. The full discriminant group is not totally isotropic, so no nonzero octonion-stable isotropic subspace exists in this ansatz.",
+  "first_examples": {
+    "first_generated_dimension_8": [
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ]
+    ],
+    "first_isotropic_line": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      4
+    ]
+  },
+  "indecomposable_candidate_count": 0,
+  "mixed_root_count": 0,
+  "multiplicative_closure_depth": 1,
+  "passing_closure_trace_integral_count": 0,
+  "passing_module_assembly_count": 19656,
+  "passing_phi_stability_count": 97656,
+  "passing_trace_norm_line_count": 19656,
+  "projective_gram_graph_components": [],
+  "projective_line_count": 97656,
+  "search": "G3-B-prime sqrt5 discriminant-group ansatz",
+  "shell_size_trace_norm_one": 0
+}

@@ -1,0 +1,12 @@
+{
+  "distinct_projective_f4_lines": 3600,
+  "integral_norm_raw_pair_count": 0,
+  "interpretation": "For H4 roots normalized to norm 1, all raw mixed half-roots have norm 1/2, hence they are not integral-norm order elements under the strict Z[phi]-order convention.",
+  "norm_distribution": {
+    "1/2": 14400
+  },
+  "passing_line_count": 0,
+  "passing_lines": [],
+  "raw_pair_count": 14400,
+  "search": "mixed_half_roots_x=(a+b*l)/2_with_a_b_in_H4"
+}

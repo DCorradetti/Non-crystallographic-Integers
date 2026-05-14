@@ -1,0 +1,19 @@
+{
+  "all_nonzero_denominator_2_subspaces_excluded": true,
+  "ambient_quotient": "(1/2 G0)/G0 ~= (Z[phi]/2)^8 ~= F4^8",
+  "complete_line_scan": true,
+  "necessary_condition": "every projective line contained in C must have integral pairings with the baseline G0 basis",
+  "overmodule_form": "G_C = G0 + (1/2)C",
+  "projective_line_count_expected": 21845,
+  "projective_line_count_tested": 21845,
+  "projective_lines_with_integral_pairings": 0,
+  "proof": [
+    "Every nonzero F4-subspace C <= F4^8 contains at least one projective F4-line.",
+    "If G_C is a strict Z[phi]-order candidate, each element v/2 with v in C must pair integrally with the baseline basis of G0.",
+    "The complete projective-line scan found zero lines satisfying this integral-pairing condition.",
+    "Therefore no nonzero denominator-2 F4-subspace C can pass the strict integral-pairing test."
+  ],
+  "search": "denominator_two_all_f4_subspaces_pairing_obstruction",
+  "source_certificate": "denominator2_single_line_search.json",
+  "subspaces_considered": "all nonzero F4-linear subspaces C <= F4^8"
+}

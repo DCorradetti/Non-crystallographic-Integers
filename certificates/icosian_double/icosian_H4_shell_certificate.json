@@ -1,0 +1,8 @@
+{
+  "all_norm_one": true,
+  "all_roots_in_icosian_order": true,
+  "closed_under_negation": true,
+  "closed_under_quaternion_multiplication": true,
+  "root_count": 120,
+  "type": "H4"
+}
