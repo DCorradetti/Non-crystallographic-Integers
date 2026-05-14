@@ -116,8 +116,3 @@ both the article and the supplementary archive:
 
 ---
 
-## Contact
-
-Daniele Corradetti  
-Departamento de Matemática, Universidade do Algarve — `a55499@ualg.pt`  
-Grupo de Física Matemática, Instituto Superior Técnico, Lisboa — `danielecorradetti@tecnico.ulisboa.pt`
