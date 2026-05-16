@@ -2,7 +2,6 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2605.15075-b31b1b.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.15075)
 [![DOI](https://img.shields.io/badge/DOI-10.48550%2FarXiv.2605.15075-0c7bbb.svg)](https://doi.org/10.48550/arXiv.2605.15075)
-[![Verify](https://github.com/DCorradetti/Non-crystallographic-Integers/actions/workflows/verify.yml/badge.svg?branch=main)](https://github.com/DCorradetti/Non-crystallographic-Integers/actions/workflows/verify.yml)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-live-2ea44f.svg?logo=github)](https://dcorradetti.github.io/Non-crystallographic-Integers/)
 [![Python](https://img.shields.io/badge/python-%E2%89%A53.11-3776ab.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![Code license: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE)
