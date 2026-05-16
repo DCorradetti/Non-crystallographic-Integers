@@ -22,6 +22,7 @@ in exact arithmetic over `Z[φ]`, with one JSON certificate per logical step.
 - [Paper ↔ certificate correspondence](docs/correspondence.md)
 - [Source code](scripts/)
 - [JSON certificates](certificates/)
+- [Companion supplement: exact golden model sets (Article 17)](supplement/exact_golden_model_sets/)
 - [Source repository on GitHub](https://github.com/DCorradetti/Non-crystallographic-Integers)
 
 ## Quick verification
@@ -62,6 +63,16 @@ A SHA-256 digest of the certificate tree is printed at the end and stored in
   type `O^+(8,5)` with `19656` isotropic projective lines, every one of which
   generates a full-dimension stable closure.
   → [`certificates/g3_b_prime/`](certificates/g3_b_prime/)
+
+## Companion supplements
+
+The [`supplement/`](supplement/) tree hosts self-contained reproducibility
+packages for companion articles.
+
+- **[`exact_golden_model_sets/`](supplement/exact_golden_model_sets/)** —
+  D. Corradetti, *Exact golden arithmetic of H2 and H4 model sets*. Bundles
+  v2 scripts, JSON certificates, and Markdown audit notes. Requires `sympy`
+  in addition to the Python standard library.
 
 ## License
 

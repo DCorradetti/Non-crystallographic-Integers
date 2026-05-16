@@ -31,6 +31,9 @@ certificates into `certificates/`. It exits non-zero if any check fails.
 A SHA-256 digest of the final certificate tree is printed at the end and is
 also stored in `certificates/SHA256SUMS`.
 
+Self-contained per-article supplements live under [`supplement/`](supplement/);
+see [Companion article supplements](#companion-article-supplements) below.
+
 ---
 
 ## Repository layout
@@ -42,7 +45,7 @@ also stored in `certificates/SHA256SUMS`.
 ├── _config.yml                Jekyll configuration for GitHub Pages
 ├── index.md                   landing page rendered at site root
 ├── verify.py                  top-level verification entry point
-├── scripts/                   Python implementation
+├── scripts/                   Python implementation (main NC integers article)
 │   ├── golden_octonions.py
 │   ├── g3_search.py
 │   ├── g3_dual_discriminant.py
@@ -57,6 +60,11 @@ also stored in `certificates/SHA256SUMS`.
 │   ├── g3/
 │   ├── g3_b_prime/
 │   └── SHA256SUMS
+├── supplement/                self-contained per-article supplements
+│   └── exact_golden_model_sets/
+│       ├── README.md
+│       ├── scripts/           v2 wrappers + bundled dependencies
+│       └── certificates/      JSON certificates + Markdown audit notes
 ├── docs/                      paper-section ↔ protocol cross-reference
 │   ├── protocol.md
 │   └── correspondence.md
@@ -82,6 +90,34 @@ maps to a script and to a JSON certificate directory:
 
 See [`docs/correspondence.md`](docs/correspondence.md) for a more detailed mapping between paper
 propositions and certificates.
+
+---
+
+## Companion article supplements
+
+The [`supplement/`](supplement/) tree hosts self-contained reproducibility
+packages for companion articles. Each package bundles its own scripts,
+dependencies, and certificates, and runs independently of `verify.py`.
+
+### `supplement/exact_golden_model_sets/`
+
+Reproducibility package for
+
+> D. Corradetti, *Exact golden arithmetic of H2 and H4 model sets*.
+
+Regenerate the full certificate package from the repository root:
+
+```bash
+python supplement/exact_golden_model_sets/scripts/script_exact_golden_model_sets_v2.py
+```
+
+Focused wrappers regenerate the H2, H4, and K8/E8 reciprocal slices
+separately. See
+[`supplement/exact_golden_model_sets/README.md`](supplement/exact_golden_model_sets/README.md)
+for the full file inventory and entry points.
+
+> **Note.** Unlike the base `verify.py` pipeline, this supplement requires
+> `sympy` in addition to the Python standard library.
 
 ---
 
