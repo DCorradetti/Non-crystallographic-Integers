@@ -1,0 +1,151 @@
+{
+  "certificate": "icosahedral_star_vectors",
+  "source": "H3 star extracted as the standard icosahedral shadow of H4 arithmetic",
+  "vector_count": 12,
+  "vectors": [
+    {
+      "xyz_decimal": [
+        -1.61803398875,
+        0.0,
+        -1.0
+      ],
+      "xyz_zphi": [
+        "-phi",
+        "0",
+        "-1"
+      ]
+    },
+    {
+      "xyz_decimal": [
+        -1.61803398875,
+        0.0,
+        1.0
+      ],
+      "xyz_zphi": [
+        "-phi",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "xyz_decimal": [
+        -1.0,
+        -1.61803398875,
+        0.0
+      ],
+      "xyz_zphi": [
+        "-1",
+        "-phi",
+        "0"
+      ]
+    },
+    {
+      "xyz_decimal": [
+        -1.0,
+        1.61803398875,
+        0.0
+      ],
+      "xyz_zphi": [
+        "-1",
+        "phi",
+        "0"
+      ]
+    },
+    {
+      "xyz_decimal": [
+        0.0,
+        -1.0,
+        -1.61803398875
+      ],
+      "xyz_zphi": [
+        "0",
+        "-1",
+        "-phi"
+      ]
+    },
+    {
+      "xyz_decimal": [
+        0.0,
+        -1.0,
+        1.61803398875
+      ],
+      "xyz_zphi": [
+        "0",
+        "-1",
+        "phi"
+      ]
+    },
+    {
+      "xyz_decimal": [
+        0.0,
+        1.0,
+        -1.61803398875
+      ],
+      "xyz_zphi": [
+        "0",
+        "1",
+        "-phi"
+      ]
+    },
+    {
+      "xyz_decimal": [
+        0.0,
+        1.0,
+        1.61803398875
+      ],
+      "xyz_zphi": [
+        "0",
+        "1",
+        "phi"
+      ]
+    },
+    {
+      "xyz_decimal": [
+        1.0,
+        -1.61803398875,
+        0.0
+      ],
+      "xyz_zphi": [
+        "1",
+        "-phi",
+        "0"
+      ]
+    },
+    {
+      "xyz_decimal": [
+        1.0,
+        1.61803398875,
+        0.0
+      ],
+      "xyz_zphi": [
+        "1",
+        "phi",
+        "0"
+      ]
+    },
+    {
+      "xyz_decimal": [
+        1.61803398875,
+        0.0,
+        -1.0
+      ],
+      "xyz_zphi": [
+        "phi",
+        "0",
+        "-1"
+      ]
+    },
+    {
+      "xyz_decimal": [
+        1.61803398875,
+        0.0,
+        1.0
+      ],
+      "xyz_zphi": [
+        "phi",
+        "0",
+        "1"
+      ]
+    }
+  ]
+}

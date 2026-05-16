@@ -1,0 +1,40 @@
+{
+  "certificate": "k8_e8_projection_comparison",
+  "comparison_axis": "reciprocal module and discriminant layer",
+  "e8": {
+    "determinant": 1,
+    "discriminant_group": "trivial",
+    "dual_denominator_lcm": 1,
+    "has_fifth_denominator_reciprocal_labels": false,
+    "nonintegral_inverse_entries": 0,
+    "smith_normal_form_diagonal": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "k8": {
+    "determinant": 625,
+    "discriminant_group": "(Z/5Z)^4",
+    "dual_denominator_lcm": 5,
+    "has_fifth_denominator_reciprocal_labels": true,
+    "nonintegral_inverse_entries": 56,
+    "smith_normal_form_diagonal": [
+      1,
+      1,
+      1,
+      1,
+      5,
+      5,
+      5,
+      5
+    ]
+  },
+  "publishable_consequence": "The visible H4/icosian shell can be compared with E8 geometry, but the reciprocal module for the trace-normalized icosian lattice is not E8-self-dual: it contains a 5-primary discriminant layer.",
+  "table_statement": "K8^#/K8=(Z/5Z)^4 whereas E8^#/E8=0."
+}

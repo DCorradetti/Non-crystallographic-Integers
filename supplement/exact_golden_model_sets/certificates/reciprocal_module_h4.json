@@ -1,0 +1,194 @@
+{
+  "certificate": "reciprocal_module_h4",
+  "dual_basis_generators": [
+    {
+      "coordinates_in_K8_basis": [
+        "14/5",
+        "18/5",
+        "-7/5",
+        "18/5",
+        "-8/5",
+        "-11/5",
+        "4/5",
+        "-11/5"
+      ],
+      "coordinates_scaled_by_5": [
+        "14",
+        "18",
+        "-7",
+        "18",
+        "-8",
+        "-11",
+        "4",
+        "-11"
+      ],
+      "dual_basis_index": 0
+    },
+    {
+      "coordinates_in_K8_basis": [
+        "18/5",
+        "28/5",
+        "-2",
+        "26/5",
+        "-11/5",
+        "-16/5",
+        "1",
+        "-17/5"
+      ],
+      "coordinates_scaled_by_5": [
+        "18",
+        "28",
+        "-10",
+        "26",
+        "-11",
+        "-16",
+        "5",
+        "-17"
+      ],
+      "dual_basis_index": 1
+    },
+    {
+      "coordinates_in_K8_basis": [
+        "-7/5",
+        "-2",
+        "6/5",
+        "-8/5",
+        "4/5",
+        "1",
+        "-2/5",
+        "6/5"
+      ],
+      "coordinates_scaled_by_5": [
+        "-7",
+        "-10",
+        "6",
+        "-8",
+        "4",
+        "5",
+        "-2",
+        "6"
+      ],
+      "dual_basis_index": 2
+    },
+    {
+      "coordinates_in_K8_basis": [
+        "18/5",
+        "26/5",
+        "-8/5",
+        "28/5",
+        "-11/5",
+        "-17/5",
+        "6/5",
+        "-16/5"
+      ],
+      "coordinates_scaled_by_5": [
+        "18",
+        "26",
+        "-8",
+        "28",
+        "-11",
+        "-17",
+        "6",
+        "-16"
+      ],
+      "dual_basis_index": 3
+    },
+    {
+      "coordinates_in_K8_basis": [
+        "-8/5",
+        "-11/5",
+        "4/5",
+        "-11/5",
+        "6/5",
+        "7/5",
+        "-3/5",
+        "7/5"
+      ],
+      "coordinates_scaled_by_5": [
+        "-8",
+        "-11",
+        "4",
+        "-11",
+        "6",
+        "7",
+        "-3",
+        "7"
+      ],
+      "dual_basis_index": 4
+    },
+    {
+      "coordinates_in_K8_basis": [
+        "-11/5",
+        "-16/5",
+        "1",
+        "-17/5",
+        "7/5",
+        "12/5",
+        "-1",
+        "9/5"
+      ],
+      "coordinates_scaled_by_5": [
+        "-11",
+        "-16",
+        "5",
+        "-17",
+        "7",
+        "12",
+        "-5",
+        "9"
+      ],
+      "dual_basis_index": 5
+    },
+    {
+      "coordinates_in_K8_basis": [
+        "4/5",
+        "1",
+        "-2/5",
+        "6/5",
+        "-3/5",
+        "-1",
+        "4/5",
+        "-2/5"
+      ],
+      "coordinates_scaled_by_5": [
+        "4",
+        "5",
+        "-2",
+        "6",
+        "-3",
+        "-5",
+        "4",
+        "-2"
+      ],
+      "dual_basis_index": 6
+    },
+    {
+      "coordinates_in_K8_basis": [
+        "-11/5",
+        "-17/5",
+        "6/5",
+        "-16/5",
+        "7/5",
+        "9/5",
+        "-2/5",
+        "12/5"
+      ],
+      "coordinates_scaled_by_5": [
+        "-11",
+        "-17",
+        "6",
+        "-16",
+        "7",
+        "9",
+        "-2",
+        "12"
+      ],
+      "dual_basis_index": 7
+    }
+  ],
+  "dual_denominator_lcm": 5,
+  "interpretation": "Reciprocal labels for the K8 normalization naturally carry fifth-denominator coordinates.",
+  "lattice": "K8 icosian trace lattice",
+  "nonintegral_inverse_entries": 56,
+  "trace_polar_form": "Tr_{K/Q}(2*<x,y>_K)"
+}

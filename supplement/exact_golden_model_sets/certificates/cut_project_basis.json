@@ -1,0 +1,127 @@
+{
+  "certificate": "cut_project_basis",
+  "internal_columns": "w_j=(cos(4*pi*j/5), sin(4*pi*j/5))",
+  "internal_gram_exact": [
+    [
+      "1",
+      "-1/2*phi",
+      "-1/2+1/2*phi",
+      "-1/2+1/2*phi",
+      "-1/2*phi"
+    ],
+    [
+      "-1/2*phi",
+      "1",
+      "-1/2*phi",
+      "-1/2+1/2*phi",
+      "-1/2+1/2*phi"
+    ],
+    [
+      "-1/2+1/2*phi",
+      "-1/2*phi",
+      "1",
+      "-1/2*phi",
+      "-1/2+1/2*phi"
+    ],
+    [
+      "-1/2+1/2*phi",
+      "-1/2+1/2*phi",
+      "-1/2*phi",
+      "1",
+      "-1/2*phi"
+    ],
+    [
+      "-1/2*phi",
+      "-1/2+1/2*phi",
+      "-1/2+1/2*phi",
+      "-1/2*phi",
+      "1"
+    ]
+  ],
+  "physical_columns": "v_j=(cos(2*pi*j/5), sin(2*pi*j/5))",
+  "physical_gram_exact": [
+    [
+      "1",
+      "-1/2+1/2*phi",
+      "-1/2*phi",
+      "-1/2*phi",
+      "-1/2+1/2*phi"
+    ],
+    [
+      "-1/2+1/2*phi",
+      "1",
+      "-1/2+1/2*phi",
+      "-1/2*phi",
+      "-1/2*phi"
+    ],
+    [
+      "-1/2*phi",
+      "-1/2+1/2*phi",
+      "1",
+      "-1/2+1/2*phi",
+      "-1/2*phi"
+    ],
+    [
+      "-1/2*phi",
+      "-1/2*phi",
+      "-1/2+1/2*phi",
+      "1",
+      "-1/2+1/2*phi"
+    ],
+    [
+      "-1/2+1/2*phi",
+      "-1/2*phi",
+      "-1/2*phi",
+      "-1/2+1/2*phi",
+      "1"
+    ]
+  ],
+  "source_lattice": "Z^5 / diagonal Z",
+  "window": {
+    "definition": "sum_j t_j w_j with -1/2 <= t_j <= 1/2 and w_j=(cos(4*pi*j/5), sin(4*pi*j/5))",
+    "note": "This is the canonical centered strip window used here for the finite H2 benchmark; the data remain finite-window intensities rather than an infinite diffraction theorem.",
+    "type": "centered regular decagonal zonotope",
+    "vertices_decimal_ccw": [
+      [
+        -1.61803398875,
+        0.0
+      ],
+      [
+        -1.309016994375,
+        -0.951056516295
+      ],
+      [
+        -0.5,
+        -1.538841768588
+      ],
+      [
+        0.5,
+        -1.538841768588
+      ],
+      [
+        1.309016994375,
+        -0.951056516295
+      ],
+      [
+        1.61803398875,
+        -0.0
+      ],
+      [
+        1.309016994375,
+        0.951056516295
+      ],
+      [
+        0.5,
+        1.538841768588
+      ],
+      [
+        -0.5,
+        1.538841768588
+      ],
+      [
+        -1.309016994375,
+        0.951056516295
+      ]
+    ]
+  }
+}

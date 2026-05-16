@@ -1,0 +1,568 @@
+{
+  "certificate": "reciprocal_module_h2",
+  "label_count_exported": 40,
+  "label_limit": 2,
+  "labels": [
+    {
+      "label_Z5": [
+        -2,
+        -2,
+        0,
+        2,
+        2
+      ],
+      "norm_squared_exact": "12+16*phi",
+      "wavevector_xy_decimal": [
+        -3.61803398875,
+        -4.979796569766
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        -2,
+        1,
+        1,
+        2
+      ],
+      "norm_squared_exact": "13+9*phi",
+      "wavevector_xy_decimal": [
+        -3.61803398875,
+        -3.804226065181
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        -2,
+        1,
+        2,
+        1
+      ],
+      "norm_squared_exact": "10+15*phi",
+      "wavevector_xy_decimal": [
+        -4.7360679775,
+        -3.440954801178
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        -2,
+        2,
+        1,
+        1
+      ],
+      "norm_squared_exact": "13+9*phi",
+      "wavevector_xy_decimal": [
+        -4.7360679775,
+        -2.265384296593
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        -2,
+        2,
+        2,
+        0
+      ],
+      "norm_squared_exact": "12+16*phi",
+      "wavevector_xy_decimal": [
+        -5.85410196625,
+        -1.90211303259
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        -1,
+        -1,
+        2,
+        2
+      ],
+      "norm_squared_exact": "13+9*phi",
+      "wavevector_xy_decimal": [
+        -2.5,
+        -4.616525305763
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        -1,
+        0,
+        1,
+        2
+      ],
+      "norm_squared_exact": "10+5*phi",
+      "wavevector_xy_decimal": [
+        -2.5,
+        -3.440954801178
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        -1,
+        0,
+        2,
+        1
+      ],
+      "norm_squared_exact": "8+9*phi",
+      "wavevector_xy_decimal": [
+        -3.61803398875,
+        -3.077683537175
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        -1,
+        1,
+        0,
+        2
+      ],
+      "norm_squared_exact": "13-phi",
+      "wavevector_xy_decimal": [
+        -2.5,
+        -2.265384296593
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        -1,
+        1,
+        1,
+        1
+      ],
+      "norm_squared_exact": "7+6*phi",
+      "wavevector_xy_decimal": [
+        -3.61803398875,
+        -1.90211303259
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        -1,
+        1,
+        2,
+        0
+      ],
+      "norm_squared_exact": "7+11*phi",
+      "wavevector_xy_decimal": [
+        -4.7360679775,
+        -1.538841768588
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        -1,
+        2,
+        -1,
+        2
+      ],
+      "norm_squared_exact": "22-9*phi",
+      "wavevector_xy_decimal": [
+        -2.5,
+        -1.089813792008
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        -1,
+        2,
+        0,
+        1
+      ],
+      "norm_squared_exact": "12+phi",
+      "wavevector_xy_decimal": [
+        -3.61803398875,
+        -0.726542528005
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        -1,
+        2,
+        1,
+        0
+      ],
+      "norm_squared_exact": "8+9*phi",
+      "wavevector_xy_decimal": [
+        -4.7360679775,
+        -0.363271264003
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        -1,
+        2,
+        2,
+        -1
+      ],
+      "norm_squared_exact": "10+15*phi",
+      "wavevector_xy_decimal": [
+        -5.85410196625,
+        0.0
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        0,
+        -1,
+        1,
+        2
+      ],
+      "norm_squared_exact": "13-phi",
+      "wavevector_xy_decimal": [
+        -1.38196601125,
+        -3.077683537175
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        0,
+        -1,
+        2,
+        1
+      ],
+      "norm_squared_exact": "12+phi",
+      "wavevector_xy_decimal": [
+        -2.5,
+        -2.714412273173
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        0,
+        0,
+        0,
+        2
+      ],
+      "norm_squared_exact": "12-4*phi",
+      "wavevector_xy_decimal": [
+        -1.38196601125,
+        -1.90211303259
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        0,
+        0,
+        1,
+        1
+      ],
+      "norm_squared_exact": "7+phi",
+      "wavevector_xy_decimal": [
+        -2.5,
+        -1.538841768588
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        0,
+        0,
+        2,
+        0
+      ],
+      "norm_squared_exact": "8+4*phi",
+      "wavevector_xy_decimal": [
+        -3.61803398875,
+        -1.175570504585
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        0,
+        1,
+        -1,
+        2
+      ],
+      "norm_squared_exact": "17-9*phi",
+      "wavevector_xy_decimal": [
+        -1.38196601125,
+        -0.726542528005
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        0,
+        1,
+        0,
+        1
+      ],
+      "norm_squared_exact": "8-phi",
+      "wavevector_xy_decimal": [
+        -2.5,
+        -0.363271264003
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        0,
+        1,
+        1,
+        0
+      ],
+      "norm_squared_exact": "5+5*phi",
+      "wavevector_xy_decimal": [
+        -3.61803398875,
+        0.0
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        0,
+        1,
+        2,
+        -1
+      ],
+      "norm_squared_exact": "8+9*phi",
+      "wavevector_xy_decimal": [
+        -4.7360679775,
+        0.363271264003
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        0,
+        2,
+        -2,
+        2
+      ],
+      "norm_squared_exact": "28-16*phi",
+      "wavevector_xy_decimal": [
+        -1.38196601125,
+        0.44902797658
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        0,
+        2,
+        -1,
+        1
+      ],
+      "norm_squared_exact": "15-5*phi",
+      "wavevector_xy_decimal": [
+        -2.5,
+        0.812299240582
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        0,
+        2,
+        0,
+        0
+      ],
+      "norm_squared_exact": "8+4*phi",
+      "wavevector_xy_decimal": [
+        -3.61803398875,
+        1.175570504585
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        0,
+        2,
+        1,
+        -1
+      ],
+      "norm_squared_exact": "7+11*phi",
+      "wavevector_xy_decimal": [
+        -4.7360679775,
+        1.538841768588
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        0,
+        2,
+        2,
+        -2
+      ],
+      "norm_squared_exact": "12+16*phi",
+      "wavevector_xy_decimal": [
+        -5.85410196625,
+        1.90211303259
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        1,
+        -2,
+        1,
+        2
+      ],
+      "norm_squared_exact": "22-9*phi",
+      "wavevector_xy_decimal": [
+        -0.2639320225,
+        -2.714412273173
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        1,
+        -2,
+        2,
+        1
+      ],
+      "norm_squared_exact": "22-9*phi",
+      "wavevector_xy_decimal": [
+        -1.38196601125,
+        -2.35114100917
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        1,
+        -1,
+        0,
+        2
+      ],
+      "norm_squared_exact": "17-9*phi",
+      "wavevector_xy_decimal": [
+        -0.2639320225,
+        -1.538841768588
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        1,
+        -1,
+        1,
+        1
+      ],
+      "norm_squared_exact": "13-6*phi",
+      "wavevector_xy_decimal": [
+        -1.38196601125,
+        -1.175570504585
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        1,
+        -1,
+        2,
+        0
+      ],
+      "norm_squared_exact": "15-5*phi",
+      "wavevector_xy_decimal": [
+        -2.5,
+        -0.812299240582
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        1,
+        0,
+        -1,
+        2
+      ],
+      "norm_squared_exact": "18-11*phi",
+      "wavevector_xy_decimal": [
+        -0.2639320225,
+        -0.363271264003
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        1,
+        0,
+        0,
+        1
+      ],
+      "norm_squared_exact": "10-5*phi",
+      "wavevector_xy_decimal": [
+        -1.38196601125,
+        -0.0
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        1,
+        0,
+        1,
+        0
+      ],
+      "norm_squared_exact": "8-phi",
+      "wavevector_xy_decimal": [
+        -2.5,
+        0.363271264003
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        1,
+        0,
+        2,
+        -1
+      ],
+      "norm_squared_exact": "12+phi",
+      "wavevector_xy_decimal": [
+        -3.61803398875,
+        0.726542528005
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        1,
+        1,
+        -2,
+        2
+      ],
+      "norm_squared_exact": "25-15*phi",
+      "wavevector_xy_decimal": [
+        -0.2639320225,
+        0.812299240582
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        1,
+        1,
+        -1,
+        1
+      ],
+      "norm_squared_exact": "13-6*phi",
+      "wavevector_xy_decimal": [
+        -1.38196601125,
+        1.175570504585
+      ]
+    }
+  ],
+  "module": "dual labels in Z^5 / diagonal Z projected to physical space"
+}

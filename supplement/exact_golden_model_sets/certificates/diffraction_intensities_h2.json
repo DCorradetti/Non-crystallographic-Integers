@@ -1,0 +1,358 @@
+{
+  "certificate": "diffraction_intensities_h2",
+  "method": "finite-patch kinematic intensity |sum exp(-i k.x)|^2 / N^2",
+  "patch_vertex_count": 31,
+  "scope": "benchmark finite intensities, not an infinite-volume diffraction theorem",
+  "top_intensities": [
+    {
+      "label_Z5": [
+        -2,
+        1,
+        0,
+        -1,
+        2
+      ],
+      "relative_intensity": 0.393140908458,
+      "wavevector_xy_decimal": [
+        -0.2639320225,
+        -0.363271264003
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        -2,
+        1,
+        2,
+        1
+      ],
+      "relative_intensity": 0.051721763235,
+      "wavevector_xy_decimal": [
+        -4.7360679775,
+        -3.440954801178
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        -1,
+        2,
+        2,
+        -1
+      ],
+      "relative_intensity": 0.051721763235,
+      "wavevector_xy_decimal": [
+        -5.85410196625,
+        0.0
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        0,
+        1,
+        1,
+        0
+      ],
+      "relative_intensity": 0.041998047741,
+      "wavevector_xy_decimal": [
+        -3.61803398875,
+        0.0
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        -1,
+        1,
+        1,
+        1
+      ],
+      "relative_intensity": 0.036605873857,
+      "wavevector_xy_decimal": [
+        -3.61803398875,
+        -1.90211303259
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        1,
+        0,
+        0,
+        1
+      ],
+      "relative_intensity": 0.032482746232,
+      "wavevector_xy_decimal": [
+        -1.38196601125,
+        -0.0
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        0,
+        2,
+        -2,
+        2
+      ],
+      "relative_intensity": 0.024378472717,
+      "wavevector_xy_decimal": [
+        -1.38196601125,
+        0.44902797658
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        -1,
+        0,
+        1,
+        2
+      ],
+      "relative_intensity": 0.023540132054,
+      "wavevector_xy_decimal": [
+        -2.5,
+        -3.440954801178
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        -1,
+        2,
+        0,
+        1
+      ],
+      "relative_intensity": 0.017677736409,
+      "wavevector_xy_decimal": [
+        -3.61803398875,
+        -0.726542528005
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        0,
+        -1,
+        2,
+        1
+      ],
+      "relative_intensity": 0.017677736409,
+      "wavevector_xy_decimal": [
+        -2.5,
+        -2.714412273173
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        1,
+        0,
+        2,
+        -1
+      ],
+      "relative_intensity": 0.017677736409,
+      "wavevector_xy_decimal": [
+        -3.61803398875,
+        0.726542528005
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        0,
+        0,
+        1,
+        1
+      ],
+      "relative_intensity": 0.015304478736,
+      "wavevector_xy_decimal": [
+        -2.5,
+        -1.538841768588
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        -2,
+        2,
+        1,
+        1
+      ],
+      "relative_intensity": 0.014012645715,
+      "wavevector_xy_decimal": [
+        -4.7360679775,
+        -2.265384296593
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        -2,
+        1,
+        1,
+        2
+      ],
+      "relative_intensity": 0.014012645714,
+      "wavevector_xy_decimal": [
+        -3.61803398875,
+        -3.804226065181
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        -1,
+        -1,
+        2,
+        2
+      ],
+      "relative_intensity": 0.014012645714,
+      "wavevector_xy_decimal": [
+        -2.5,
+        -4.616525305763
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        0,
+        1,
+        -1,
+        2
+      ],
+      "relative_intensity": 0.012465199164,
+      "wavevector_xy_decimal": [
+        -1.38196601125,
+        -0.726542528005
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        1,
+        -1,
+        0,
+        2
+      ],
+      "relative_intensity": 0.012465199163,
+      "wavevector_xy_decimal": [
+        -0.2639320225,
+        -1.538841768588
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        -1,
+        0,
+        2,
+        1
+      ],
+      "relative_intensity": 0.011396248708,
+      "wavevector_xy_decimal": [
+        -3.61803398875,
+        -3.077683537175
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        -1,
+        2,
+        1,
+        0
+      ],
+      "relative_intensity": 0.011396248708,
+      "wavevector_xy_decimal": [
+        -4.7360679775,
+        -0.363271264003
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        0,
+        1,
+        2,
+        -1
+      ],
+      "relative_intensity": 0.011396248708,
+      "wavevector_xy_decimal": [
+        -4.7360679775,
+        0.363271264003
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        0,
+        0,
+        0,
+        2
+      ],
+      "relative_intensity": 0.005249415415,
+      "wavevector_xy_decimal": [
+        -1.38196601125,
+        -1.90211303259
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        -1,
+        1,
+        2,
+        0
+      ],
+      "relative_intensity": 0.004650149606,
+      "wavevector_xy_decimal": [
+        -4.7360679775,
+        -1.538841768588
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        0,
+        2,
+        1,
+        -1
+      ],
+      "relative_intensity": 0.004650149606,
+      "wavevector_xy_decimal": [
+        -4.7360679775,
+        1.538841768588
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        0,
+        0,
+        2,
+        0
+      ],
+      "relative_intensity": 0.00270494779,
+      "wavevector_xy_decimal": [
+        -3.61803398875,
+        -1.175570504585
+      ]
+    },
+    {
+      "label_Z5": [
+        -2,
+        0,
+        2,
+        0,
+        0
+      ],
+      "relative_intensity": 0.00270494779,
+      "wavevector_xy_decimal": [
+        -3.61803398875,
+        1.175570504585
+      ]
+    }
+  ]
+}

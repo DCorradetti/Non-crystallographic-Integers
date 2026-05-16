@@ -1,0 +1,31 @@
+{
+  "all_core_checks_passed": true,
+  "article": "17. Exact Golden Model Sets",
+  "certificate": "summary",
+  "file_hashes_sha256": {
+    "cut_project_basis.json": "6841a5d4543be121c10a7a2e82fa23a25efa48c41f80529054a6c0832aa05b3a",
+    "diffraction_intensities_h2.json": "0aa6032d2b0ee289b49c7052a8f8dafcbb2c951b0c83925f85ecde40979ed33f",
+    "h2_shell_certificate.json": "32fdc7ec65728c56f994965206c66b4a95d92f34b56c14bfe82b469a795f87c1",
+    "h4_shell_coordinates.json": "842c4a439a248b7cebd02d48962432c1f1a93398935c7647b935d9d360eb5746",
+    "icosahedral_star_vectors.json": "723e2a331fc7b6de4bb3d7b012846648d863367d1b272e1baaf90dc00d487077",
+    "k8_e8_projection_comparison.json": "f883b7d628818bc983978e25035b8638e83562f8dbb7ffad9a69a875eec4c1eb",
+    "penrose_patch_vertices.json": "1eeec306c1dc00612d8724c6b86298f4193fc6f92afe68dc9b18c741f8cc0687",
+    "projection_matrices_h4.json": "01a276b9bd95a31e98175ad62eeeb7337912691962c5691fa20a0e8c99436b56",
+    "reciprocal_module_h2.json": "dedae509b5f62f12fbc15b9150ecb8c7855eef48da89860d15a2ea8cfdeefec8",
+    "reciprocal_module_h4.json": "b5de1e9f634441174d62f450e44672ffce1fe9fe460930df4f202d9cd585f5e8"
+  },
+  "main_outputs": {
+    "h2_diffraction_peaks_exported": 25,
+    "h2_patch_vertices": 31,
+    "h4_root_count": 120,
+    "h4_star_vector_count": 12,
+    "k8_dual_denominator_lcm": 5,
+    "k8_e8_consequence": "K8^#/K8=(Z/5Z)^4 whereas E8^#/E8=0."
+  },
+  "scope": [
+    "Mathematical model-set and reciprocal-module arithmetic.",
+    "Finite H2 diffraction benchmark with a centered decagonal strip window only.",
+    "No experimental materials claim.",
+    "No G0/octonion associator claim."
+  ]
+}

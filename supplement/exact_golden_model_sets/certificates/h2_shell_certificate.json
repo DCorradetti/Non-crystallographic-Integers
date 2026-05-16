@@ -1,0 +1,80 @@
+{
+  "cartan_generator": "2*cos(pi/5)=phi",
+  "certificate": "h2_shell_certificate",
+  "coefficient_ring": "Z[phi]",
+  "control_role": "benchmark for the H4 model-set arithmetic",
+  "root_count": 10,
+  "root_system": "H2=I2(5)",
+  "roots_unit_circle_decimal": [
+    {
+      "k": 0,
+      "xy_decimal": [
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "k": 1,
+      "xy_decimal": [
+        0.809016994375,
+        0.587785252292
+      ]
+    },
+    {
+      "k": 2,
+      "xy_decimal": [
+        0.309016994375,
+        0.951056516295
+      ]
+    },
+    {
+      "k": 3,
+      "xy_decimal": [
+        -0.309016994375,
+        0.951056516295
+      ]
+    },
+    {
+      "k": 4,
+      "xy_decimal": [
+        -0.809016994375,
+        0.587785252292
+      ]
+    },
+    {
+      "k": 5,
+      "xy_decimal": [
+        -1.0,
+        0.0
+      ]
+    },
+    {
+      "k": 6,
+      "xy_decimal": [
+        -0.809016994375,
+        -0.587785252292
+      ]
+    },
+    {
+      "k": 7,
+      "xy_decimal": [
+        -0.309016994375,
+        -0.951056516295
+      ]
+    },
+    {
+      "k": 8,
+      "xy_decimal": [
+        0.309016994375,
+        -0.951056516295
+      ]
+    },
+    {
+      "k": 9,
+      "xy_decimal": [
+        0.809016994375,
+        -0.587785252292
+      ]
+    }
+  ]
+}

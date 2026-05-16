@@ -1,0 +1,17 @@
+{
+  "all_core_checks_passed": true,
+  "article": "17. Exact Golden Model Sets",
+  "canonical_certificate_dir": "3. Certificates\\exact_golden_model_sets",
+  "core_version": "v2_decagonal_h2_window",
+  "main_outputs": {
+    "h2_diffraction_peaks_exported": 25,
+    "h2_patch_vertices": 31,
+    "h4_root_count": 120,
+    "h4_star_vector_count": 12,
+    "k8_dual_denominator_lcm": 5,
+    "k8_e8_consequence": "K8^#/K8=(Z/5Z)^4 whereas E8^#/E8=0."
+  },
+  "run_dir": "7. Results\\17. Exact Golden Model Sets\\run_exact_golden_model_sets_20260516_071050",
+  "script": "script_exact_golden_model_sets_v2.py",
+  "timestamp": "20260516_071050"
+}

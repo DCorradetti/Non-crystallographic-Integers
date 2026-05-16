@@ -1,0 +1,443 @@
+{
+  "certificate": "penrose_patch_vertices",
+  "enumeration_bound": 3,
+  "patch_type": "finite H2 cyclotomic model-set patch",
+  "physical_radius": 4.0,
+  "vertex_count": 31,
+  "vertices": [
+    {
+      "internal_norm_squared_exact": "10-5*phi",
+      "label_Z5": [
+        -2,
+        0,
+        1,
+        1,
+        0
+      ],
+      "physical_xy_decimal": [
+        -3.61803398875,
+        0.0
+      ]
+    },
+    {
+      "internal_norm_squared_exact": "10-5*phi",
+      "label_Z5": [
+        -1,
+        -1,
+        0,
+        2,
+        0
+      ],
+      "physical_xy_decimal": [
+        -2.927050983125,
+        -2.12662702088
+      ]
+    },
+    {
+      "internal_norm_squared_exact": "7-4*phi",
+      "label_Z5": [
+        -1,
+        -1,
+        1,
+        1,
+        0
+      ],
+      "physical_xy_decimal": [
+        -2.927050983125,
+        -0.951056516295
+      ]
+    },
+    {
+      "internal_norm_squared_exact": "7-4*phi",
+      "label_Z5": [
+        -1,
+        0,
+        1,
+        1,
+        -1
+      ],
+      "physical_xy_decimal": [
+        -2.927050983125,
+        0.951056516295
+      ]
+    },
+    {
+      "internal_norm_squared_exact": "10-5*phi",
+      "label_Z5": [
+        -1,
+        0,
+        2,
+        0,
+        -1
+      ],
+      "physical_xy_decimal": [
+        -2.927050983125,
+        2.12662702088
+      ]
+    },
+    {
+      "internal_norm_squared_exact": "7-4*phi",
+      "label_Z5": [
+        -1,
+        -1,
+        0,
+        1,
+        1
+      ],
+      "physical_xy_decimal": [
+        -1.809016994375,
+        -2.489898284883
+      ]
+    },
+    {
+      "internal_norm_squared_exact": "3-phi",
+      "label_Z5": [
+        -1,
+        0,
+        0,
+        1,
+        0
+      ],
+      "physical_xy_decimal": [
+        -1.809016994375,
+        -0.587785252292
+      ]
+    },
+    {
+      "internal_norm_squared_exact": "3-phi",
+      "label_Z5": [
+        -1,
+        0,
+        1,
+        0,
+        0
+      ],
+      "physical_xy_decimal": [
+        -1.809016994375,
+        0.587785252292
+      ]
+    },
+    {
+      "internal_norm_squared_exact": "7-4*phi",
+      "label_Z5": [
+        -1,
+        1,
+        1,
+        0,
+        -1
+      ],
+      "physical_xy_decimal": [
+        -1.809016994375,
+        2.489898284883
+      ]
+    },
+    {
+      "internal_norm_squared_exact": "10-5*phi",
+      "label_Z5": [
+        0,
+        -2,
+        0,
+        1,
+        1
+      ],
+      "physical_xy_decimal": [
+        -1.11803398875,
+        -3.440954801178
+      ]
+    },
+    {
+      "internal_norm_squared_exact": "3-phi",
+      "label_Z5": [
+        0,
+        -1,
+        0,
+        1,
+        0
+      ],
+      "physical_xy_decimal": [
+        -1.11803398875,
+        -1.538841768588
+      ]
+    },
+    {
+      "internal_norm_squared_exact": "3-phi",
+      "label_Z5": [
+        0,
+        0,
+        1,
+        0,
+        -1
+      ],
+      "physical_xy_decimal": [
+        -1.11803398875,
+        1.538841768588
+      ]
+    },
+    {
+      "internal_norm_squared_exact": "10-5*phi",
+      "label_Z5": [
+        0,
+        1,
+        1,
+        0,
+        -2
+      ],
+      "physical_xy_decimal": [
+        -1.11803398875,
+        3.440954801178
+      ]
+    },
+    {
+      "internal_norm_squared_exact": "7-4*phi",
+      "label_Z5": [
+        0,
+        -1,
+        -1,
+        1,
+        1
+      ],
+      "physical_xy_decimal": [
+        -0.0,
+        -3.077683537175
+      ]
+    },
+    {
+      "internal_norm_squared_exact": "3-phi",
+      "label_Z5": [
+        0,
+        -1,
+        0,
+        0,
+        1
+      ],
+      "physical_xy_decimal": [
+        -0.0,
+        -1.90211303259
+      ]
+    },
+    {
+      "internal_norm_squared_exact": "0",
+      "label_Z5": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "physical_xy_decimal": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "internal_norm_squared_exact": "3-phi",
+      "label_Z5": [
+        0,
+        1,
+        0,
+        0,
+        -1
+      ],
+      "physical_xy_decimal": [
+        0.0,
+        1.90211303259
+      ]
+    },
+    {
+      "internal_norm_squared_exact": "7-4*phi",
+      "label_Z5": [
+        0,
+        1,
+        1,
+        -1,
+        -1
+      ],
+      "physical_xy_decimal": [
+        0.0,
+        3.077683537175
+      ]
+    },
+    {
+      "internal_norm_squared_exact": "10-5*phi",
+      "label_Z5": [
+        0,
+        -1,
+        -1,
+        0,
+        2
+      ],
+      "physical_xy_decimal": [
+        1.11803398875,
+        -3.440954801178
+      ]
+    },
+    {
+      "internal_norm_squared_exact": "3-phi",
+      "label_Z5": [
+        0,
+        0,
+        -1,
+        0,
+        1
+      ],
+      "physical_xy_decimal": [
+        1.11803398875,
+        -1.538841768588
+      ]
+    },
+    {
+      "internal_norm_squared_exact": "3-phi",
+      "label_Z5": [
+        0,
+        1,
+        0,
+        -1,
+        0
+      ],
+      "physical_xy_decimal": [
+        1.11803398875,
+        1.538841768588
+      ]
+    },
+    {
+      "internal_norm_squared_exact": "10-5*phi",
+      "label_Z5": [
+        0,
+        2,
+        0,
+        -1,
+        -1
+      ],
+      "physical_xy_decimal": [
+        1.11803398875,
+        3.440954801178
+      ]
+    },
+    {
+      "internal_norm_squared_exact": "7-4*phi",
+      "label_Z5": [
+        1,
+        -1,
+        -1,
+        0,
+        1
+      ],
+      "physical_xy_decimal": [
+        1.809016994375,
+        -2.489898284883
+      ]
+    },
+    {
+      "internal_norm_squared_exact": "3-phi",
+      "label_Z5": [
+        1,
+        0,
+        -1,
+        0,
+        0
+      ],
+      "physical_xy_decimal": [
+        1.809016994375,
+        -0.587785252292
+      ]
+    },
+    {
+      "internal_norm_squared_exact": "3-phi",
+      "label_Z5": [
+        1,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "physical_xy_decimal": [
+        1.809016994375,
+        0.587785252292
+      ]
+    },
+    {
+      "internal_norm_squared_exact": "7-4*phi",
+      "label_Z5": [
+        1,
+        1,
+        0,
+        -1,
+        -1
+      ],
+      "physical_xy_decimal": [
+        1.809016994375,
+        2.489898284883
+      ]
+    },
+    {
+      "internal_norm_squared_exact": "10-5*phi",
+      "label_Z5": [
+        1,
+        0,
+        -2,
+        0,
+        1
+      ],
+      "physical_xy_decimal": [
+        2.927050983125,
+        -2.12662702088
+      ]
+    },
+    {
+      "internal_norm_squared_exact": "7-4*phi",
+      "label_Z5": [
+        1,
+        0,
+        -1,
+        -1,
+        1
+      ],
+      "physical_xy_decimal": [
+        2.927050983125,
+        -0.951056516295
+      ]
+    },
+    {
+      "internal_norm_squared_exact": "7-4*phi",
+      "label_Z5": [
+        1,
+        1,
+        -1,
+        -1,
+        0
+      ],
+      "physical_xy_decimal": [
+        2.927050983125,
+        0.951056516295
+      ]
+    },
+    {
+      "internal_norm_squared_exact": "10-5*phi",
+      "label_Z5": [
+        1,
+        1,
+        0,
+        -2,
+        0
+      ],
+      "physical_xy_decimal": [
+        2.927050983125,
+        2.12662702088
+      ]
+    },
+    {
+      "internal_norm_squared_exact": "10-5*phi",
+      "label_Z5": [
+        2,
+        0,
+        -1,
+        -1,
+        0
+      ],
+      "physical_xy_decimal": [
+        3.61803398875,
+        -0.0
+      ]
+    }
+  ]
+}

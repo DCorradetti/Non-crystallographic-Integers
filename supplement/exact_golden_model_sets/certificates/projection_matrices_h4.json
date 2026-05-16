@@ -1,0 +1,42 @@
+{
+  "certificate": "projection_matrices_h4",
+  "galois_star": "apply phi -> 1-phi coefficientwise for conjugate-space labels",
+  "internal_projection": {
+    "description": "scalar coordinate retained as the first internal coordinate",
+    "matrix": [
+      [
+        1,
+        0,
+        0,
+        0
+      ]
+    ],
+    "target": "scalar complement"
+  },
+  "physical_projection": {
+    "description": "imaginary-part projection (a,b,c,d)->(b,c,d)",
+    "matrix": [
+      [
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        1
+      ]
+    ],
+    "target": "R^3 icosahedral star coordinates"
+  },
+  "scope": "projection data for exact labels and star vectors, not a full atomic-surface classification",
+  "source_coordinates": "quaternion coefficients (a,b,c,d) over Q(sqrt(5))"
+}
