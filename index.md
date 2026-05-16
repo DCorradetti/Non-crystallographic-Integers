@@ -4,11 +4,19 @@ title: Non-crystallographic integers — Certificates
 
 # Non-crystallographic integers — Certificate archive
 
+[![arXiv](https://img.shields.io/badge/arXiv-2605.15075-b31b1b.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.15075)
+[![DOI](https://img.shields.io/badge/DOI-10.48550%2FarXiv.2605.15075-0c7bbb.svg)](https://doi.org/10.48550/arXiv.2605.15075)
+[![Verify](https://github.com/DCorradetti/Non-crystallographic-Integers/actions/workflows/verify.yml/badge.svg?branch=main)](https://github.com/DCorradetti/Non-crystallographic-Integers/actions/workflows/verify.yml)
+[![Python](https://img.shields.io/badge/python-%E2%89%A53.11-3776ab.svg?logo=python&logoColor=white)](https://www.python.org/)
+[![Code license: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](https://github.com/DCorradetti/Non-crystallographic-Integers/blob/main/LICENSE)
+[![Data license: CC BY 4.0](https://img.shields.io/badge/certificates-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 Exact-arithmetic verification scripts and machine-readable certificates
 accompanying the article
 
 > **D. Corradetti**, *Non-crystallographic systems of integers over composition
-> algebras*, 2026.
+> algebras*, arXiv:[2605.15075](https://arxiv.org/abs/2605.15075), 2026.
+> DOI: [10.48550/arXiv.2605.15075](https://doi.org/10.48550/arXiv.2605.15075).
 
 This site is the public supplementary archive referenced in the *Computational
 methods* section of the paper. All numerical claims in the article — finite

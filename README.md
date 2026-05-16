@@ -1,15 +1,25 @@
 # Non-crystallographic Integers — Supplementary Material
 
+[![arXiv](https://img.shields.io/badge/arXiv-2605.15075-b31b1b.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.15075)
+[![DOI](https://img.shields.io/badge/DOI-10.48550%2FarXiv.2605.15075-0c7bbb.svg)](https://doi.org/10.48550/arXiv.2605.15075)
+[![Verify](https://github.com/DCorradetti/Non-crystallographic-Integers/actions/workflows/verify.yml/badge.svg?branch=main)](https://github.com/DCorradetti/Non-crystallographic-Integers/actions/workflows/verify.yml)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-live-2ea44f.svg?logo=github)](https://dcorradetti.github.io/Non-crystallographic-Integers/)
+[![Python](https://img.shields.io/badge/python-%E2%89%A53.11-3776ab.svg?logo=python&logoColor=white)](https://www.python.org/)
+[![Code license: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE)
+[![Data license: CC BY 4.0](https://img.shields.io/badge/certificates-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Last commit](https://img.shields.io/github/last-commit/DCorradetti/Non-crystallographic-Integers/main)](https://github.com/DCorradetti/Non-crystallographic-Integers/commits/main)
+
 Exact-arithmetic verification scripts and machine-readable certificates
 accompanying the article
 
-> **D. Corradetti**, *Non-crystallographic systems of integers over composition algebras*, 2026.
+> **D. Corradetti**, *Non-crystallographic systems of integers over composition algebras*,
+> arXiv:[2605.15075](https://arxiv.org/abs/2605.15075), 2026.
+> DOI: [10.48550/arXiv.2605.15075](https://doi.org/10.48550/arXiv.2605.15075).
 
 This repository is the public supplementary archive referenced by the
 *Computational methods* section of the paper. It contains the Python
 implementation, the integer certificates produced by each verification step,
 and a verifiable hash of the certificate archive.
-
 
 ## Quick verification
 
@@ -123,18 +133,22 @@ both the article and the supplementary archive:
 
 ```bibtex
 @article{Corradetti-NC-Integers-2026,
-  author  = {Daniele Corradetti},
-  title   = {Non-crystallographic systems of integers over composition algebras},
-  year    = {2026},
-  journal = {Preprint},
+  author       = {Daniele Corradetti},
+  title        = {Non-crystallographic systems of integers over composition algebras},
+  year         = {2026},
+  eprint       = {2605.15075},
+  archivePrefix= {arXiv},
+  primaryClass = {math.NT},
+  doi          = {10.48550/arXiv.2605.15075},
+  url          = {https://arxiv.org/abs/2605.15075},
 }
 
 @misc{Corradetti-NC-Integers-Certificates-2026,
-  author  = {Daniele Corradetti},
-  title   = {{Non-crystallographic integers --- supplementary certificates and verification scripts}},
-  year    = {2026},
+  author       = {Daniele Corradetti},
+  title        = {{Non-crystallographic integers --- supplementary certificates and verification scripts}},
+  year         = {2026},
   howpublished = {GitHub Pages \& release archive},
-  url     = {https://dcorradetti.github.io/Non-crystallographic-Integers/},
+  url          = {https://dcorradetti.github.io/Non-crystallographic-Integers/},
 }
 ```
 
