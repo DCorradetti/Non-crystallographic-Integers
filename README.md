@@ -10,11 +10,6 @@ This repository is the public supplementary archive referenced by the
 implementation, the integer certificates produced by each verification step,
 and a verifiable hash of the certificate archive.
 
-The published GitHub Pages site is available at:
-
-```
-https://dcorradetti.github.io/Non-crystallographic-Integers/
-```
 
 ## Quick verification
 
